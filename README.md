@@ -22,3 +22,5 @@ a library of games I try to programm as fast as possible to learn things
 - Typespeed
 - Hangman
 - Rock-Paper-Scissors
+- Chess
+- Checkers
